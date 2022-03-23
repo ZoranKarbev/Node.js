@@ -1,0 +1,21 @@
+[
+    {
+      "userFirstName": "Petre",
+      "userLastName": "Petrevski",
+      "userAddress": "bul. Jane Sandarski, 32/1-14",
+      "userCity": "Skopje"
+    },
+    {
+      "userFirstName": "Stanko",
+      "userLastName": "Stankovski",
+      "userAddress": "bul. V.S. Bato, 55/2-15",
+      "userCity": "Skopje"
+    },
+    {
+      "userFirstName": "Marina",
+      "userLastName": "Marinovska",
+      "userAddress": "11-ti Oktomvri, 32",
+      "userCity": "Kumanovo"
+    }
+]
+  

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Users</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <div class="user-form">
+        <h2>New User</h2>
+        <form id="form" method="POST" action="#">
+            <div class="user-box">
+                <input type="text" name="firstname" id="first-name" required="">
+                <label for="firstname">First Name</label>
+            </div>
+            <div class="user-box">
+                <input type="text" name="lastname" id="last-name" required="">
+                <label for="lastname">Last Name</label>
+            </div>
+            <div class="user-box">
+                <input type="text" name="address" id="address" required="">
+                <label for="address">Address</label>
+            </div>
+            <div class="user-box">
+                <input type="text" name="city" id="city" required="">
+                <label for="city">City</label>
+            </div>
+            <a href="#">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <button id="submit-btn">Submit</button>
+            </a>
+        </form>
+    </div>
+
+    <script src="./index.js"></script>
+
+</body>
+
+</html>
