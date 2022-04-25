@@ -1,0 +1,41 @@
+[
+  {
+    "id": "10f174e7-1835-4a88-a346-61fa1fb4ce37",
+    "amount": 10,
+    "betType": "1-18",
+    "status": "completed",
+    "winningStatus": true,
+    "winningAmount": 20
+  },
+  {
+    "id": "81d61661-67f2-4567-954f-9d70ad4b1557",
+    "betType": "single",
+    "status": "completed",
+    "winningStatus": false,
+    "winningAmount": null
+  },
+  {
+    "id": "b452ca0c-6cd2-4a86-96f8-24c8721d09c1",
+    "amount": 100,
+    "betType": "single",
+    "status": "completed",
+    "winningStatus": false,
+    "winningAmount": null
+  },
+  {
+    "id": "0c80dcfa-1e63-46ac-9890-ec7e0b4505d6",
+    "amount": 200,
+    "betType": "19-36",
+    "status": "completed",
+    "winningStatus": true,
+    "winningAmount": 400
+  },
+  {
+    "id": "5af6d39c-5487-4102-a646-61a863bc01e6",
+    "amount": 300,
+    "betType": "1-18",
+    "status": "completed",
+    "winningStatus": true,
+    "winningAmount": 600
+  }
+]

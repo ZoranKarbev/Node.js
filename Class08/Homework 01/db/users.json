@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0eba4f80-9bb6-40f5-bffc-af233ed599e3",
+    "firstName": "Petar",
+    "lastName": "Petrov",
+    "age": "29",
+    "email": "petar.petrov@gmail.com",
+    "password": "$2a$08$4S9f3SuOjQOvAi4jcEHabOHVhn/PkzL90ADTIKNfa3MrXw0INuk7q",
+    "role": "admin"
+  },
+  {
+    "id": "293c321c-71b9-428d-852f-69c3ab219926",
+    "firstName": "Sandra",
+    "lastName": "Mitreva",
+    "age": "37",
+    "email": "sandra.mitreva@gmail.com",
+    "password": "$2a$08$7Tf1.IT8VF/KLb0T.3FVkea3cJS61NTWQlkJRGIyVuAK2lJApv5hq",
+    "role": "user"
+  }
+]
