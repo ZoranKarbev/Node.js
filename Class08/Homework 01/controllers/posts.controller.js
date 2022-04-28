@@ -39,7 +39,7 @@ class PostsController {
             const postID = req.params.id;
             const postUpdates = req.body;
             if (postUpdates.id) {
-                res.status(400).send({ msg: "Invalid Update" })
+                return res.status(400).send({ msg: "Invalid Update" })
             };
 
             await PostsModel.updatePost(postID, postUpdates);
